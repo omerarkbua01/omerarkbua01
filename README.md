@@ -50,6 +50,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omerarkbua01/omerarkbua01/output/snake.svg" alt="Snake animation" />
 
 ###
