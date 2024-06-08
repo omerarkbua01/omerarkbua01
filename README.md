@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋 I'm Omer Junior Software Developer</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omerarkbua01.omerarkbua01" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omer!;" />
+</h1>
 
 ###
 
@@ -6,7 +10,7 @@
 
 ###
 
-<h3 align="center">Technologies and fields I deal with</h3>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
 ###
 
