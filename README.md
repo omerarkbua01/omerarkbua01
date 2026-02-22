@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/ofaruk.05" target="_blank">
+  <a href="https://www.instagram.com/ofaruk.00" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="35" alt="instagram logo"  />
   </a>
   <a href="omerarkbua01@gmail.com" target="_blank">
