@@ -1,60 +1,64 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omerarkbua01.omerarkbua01" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omer!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi%2C+I'm+Omer+%F0%9F%91%8B;Unity+(C%23)+Game+Dev+Learner;Weekly+Windows+%26+Android+Builds" />
 </h1>
 
-###
+<p align="center">
+  Unity (C#) Game Dev Learner | Weekly builds (Windows &amp; Android) | Reusable gameplay systems
+</p>
 
-<p align="left">I'm Omer from Turkey. I am improving myself in the Design and Development. I am interested in both the backend and frontend parts, besides, I like to learn new languages ​​and I am also interested in React and mobile field.My future goals is to improve myself in software fields such as mobile.</p>
+<hr/>
 
-###
+<h2 align="center">🎮 Featured Project</h2>
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<p align="center">
+  <a href="https://github.com/omerarkbua01/Unity-2D-Platformer">
+    <b>Unity 2D Platformer</b>
+  </a><br/>
+  Movement • Jump • Ground Check (Raycast) — updated weekly with builds &amp; progress
+</p>
 
-###
+<hr/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge" height="30" alt="cakephp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=black&style=for-the-badge" height="30" alt="xamarin logo"  />
-</div>
-
-###
-
-<h3 align="center">--Here is my contact information--</h3>
-
-###
+<h3 align="center">⚒️ Tools & Tech ⚒️</h3>
 
 <div align="center">
-  <a href="https://www.instagram.com/ofaruk.00" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="35" alt="instagram logo"  />
-  </a>
-  <a href="omerarkbua01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-ar%C4%B1kbu%C4%9Fa-5825a9279/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" height="30" alt="unity badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" height="30" alt="android badge" />
 </div>
 
-###
+<hr/>
 
+<h3 align="center">📌 Current Focus</h3>
 
-###
+<div align="center">
+  <p>
+    ✅ 2D Gameplay Fundamentals (movement, jumping, collisions)<br/>
+    ✅ Clean code &amp; reusable gameplay systems<br/>
+    ✅ Weekly Git updates + Windows/Android builds
+  </p>
+</div>
+
+<hr/>
+
+<h3 align="center">📫 Contact</h3>
+
+<div align="center">
+  <a href="https://www.instagram.com/ofaruk.00" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="35" alt="instagram logo" />
+  </a>
+  <a href="mailto:omerarkbua01@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-ar%C4%B1kbu%C4%9Fa-5825a9279/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="linkedin logo" />
+  </a>
+</div>
