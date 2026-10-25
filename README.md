@@ -1,13 +1,24 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ömer F. Arıkbuğa — Game Developer · Unity & C# · Founder of Miraxos" width="100%">
+  <img src="assets/banner.png" alt="Ömer F. Arıkbuğa — Founder of Miraxos · Software Developer · Unity & C#" width="100%">
 </p>
 
 ### 👋 Hi, I'm Ömer
 
-I build games with **Unity & C#**, and I'm the founder of **[Miraxos](https://miraxos.com)** — a SaaS that turns customer
-dimensions into production-ready CAD drawings for elevator cabin manufacturers.
+I'm the founder of **[Miraxos](https://miraxos.com)** — a SaaS that turns elevator cabin dimensions into production-ready
+CAD drawings and work orders, live and used by manufacturers in Türkiye. I also build games with **Unity & C#**.
 
-I'm working toward a **Junior Unity Developer** role: learning by building, releasing versions and documenting what I make.
+---
+
+### 🚀 Miraxos — Founder
+
+Parametric CAD automation for elevator cabin manufacturing: engineers upload DXF part templates, customers enter their
+dimensions, and Miraxos generates production-ready DXF drawings and work orders. Live at **[miraxos.com](https://miraxos.com)**.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -33,19 +44,6 @@ I'm working toward a **Junior Unity Developer** role: learning by building, rele
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Founder · Miraxos
-
-Parametric CAD automation for elevator cabin manufacturing: engineers upload DXF part templates, customers enter their
-dimensions, and Miraxos generates production-ready DXF drawings and work orders. Live at **[miraxos.com](https://miraxos.com)**.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
