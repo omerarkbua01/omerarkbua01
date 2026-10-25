@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ömer F. Arıkbuğa — Founder of Miraxos · Software Developer · Unity & C#" width="100%">
+  <img src="assets/banner.png" alt="Ömer F. Arıkbuğa · Founder of Miraxos · Software Developer · Unity & C#" width="100%">
 </p>
 
 ### 👋 Hi, I'm Ömer
 
-I'm the founder of **[Miraxos](https://miraxos.com)** — a SaaS that turns elevator cabin dimensions into production-ready
+I'm the founder of **[Miraxos](https://miraxos.com)**, a SaaS that turns elevator cabin dimensions into production-ready
 CAD drawings and work orders, live and used by manufacturers in Türkiye. I also build games with **Unity & C#**.
 
 ---
 
-### 🚀 Miraxos — Founder
+### 🚀 Miraxos · Founder
 
 Parametric CAD automation for elevator cabin manufacturing: engineers upload DXF part templates, customers enter their
 dimensions, and Miraxos generates production-ready DXF drawings and work orders. Live at **[miraxos.com](https://miraxos.com)**.
@@ -31,15 +31,15 @@ dimensions, and Miraxos generates production-ready DXF drawings and work orders.
         <img src="https://raw.githubusercontent.com/omerarkbua01/Unity-2D-Platformer/main/Docs/cover.png" alt="Unity 2D Platformer">
       </a>
       <p><b><a href="https://github.com/omerarkbua01/Unity-2D-Platformer">Unity 2D Platformer</a></b><br>
-      Coyote time, jump buffer, enemy AI state machine, checkpoints and moving platforms —
-      playable builds for Windows, macOS &amp; Android (v0.5).</p>
+      Coyote time, jump buffer, enemy AI state machine, checkpoints and moving platforms.
+      Playable builds for Windows, macOS &amp; Android (v0.5).</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/omerarkbua01/Unity-Snow-Surfer">
         <img src="https://raw.githubusercontent.com/omerarkbua01/Unity-Snow-Surfer/main/Docs/cover.png" alt="Unity Snow Surfer">
       </a>
       <p><b><a href="https://github.com/omerarkbua01/Unity-Snow-Surfer">Unity Snow Surfer</a></b><br>
-      Physics-based snowboarding — torque flips scored with <code>Mathf.DeltaAngle</code>,
+      Physics-based snowboarding: torque flips scored with <code>Mathf.DeltaAngle</code>,
       ScriptableObject power-ups, character select and a Cinemachine camera.</p>
     </td>
   </tr>
